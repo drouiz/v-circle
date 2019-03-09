@@ -14,8 +14,8 @@ This Snippet is a Vue Wrapper of a Donut and Circle CSS code found at [Codepen.i
   v-bind:icon="fa fa-html"            //complete icon class  
   v-bind:name="html"                  //Name of the element
   v-bind:color1="#f06529"             //Hex code of the graph
-/>```
-
+/>    
+```
 ## Demo
 
 You can see this snippet at [my personal cv page](http://curriculum.nunovalencia.info/#skills)
