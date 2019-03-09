@@ -9,12 +9,12 @@ This Snippet is a Vue Wrapper of a Donut and Circle CSS code found at [Codepen.i
 2. Import Fonts awesome or similar fonts;
 3. Import the CSS Vue as "import cssCircle from './v-circle/css-circle'"
 4. Create a new Element as:
-<cssCircle
+```<cssCircle
   v-bind:percent="95"                 //number
   v-bind:icon="fa fa-html"            //complete icon class  
   v-bind:name="html"                  //Name of the element
   v-bind:color1="#f06529"             //Hex code of the graph
-/>
+/>```
 
 ## Demo
 
